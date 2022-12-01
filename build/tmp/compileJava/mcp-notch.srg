@@ -1,0 +1,6 @@
+FD: dev/jess/baseband/client/mixin/Mixin/MixinRender/renderOutlines dev/jess/baseband/client/mixin/Mixin/MixinRender/e
+FD: dev/jess/baseband/client/mixin/Mixin/MixinRender/renderManager dev/jess/baseband/client/mixin/Mixin/MixinRender/b
+FD: dev/jess/baseband/client/mixin/Mixin/MixinGuiEditSign/tileSign dev/jess/baseband/client/mixin/Mixin/MixinGuiEditSign/a
+MD: dev/jess/baseband/client/mixin/Mixin/MixinRender/getTeamColor (Lnet/minecraft/entity/Entity;)I dev/jess/baseband/client/mixin/Mixin/MixinRender/c (Lvg;)I
+MD: dev/jess/baseband/client/mixin/Mixin/MixinRender/bindEntityTexture (Lnet/minecraft/entity/Entity;)Z dev/jess/baseband/client/mixin/Mixin/MixinRender/d (Lvg;)Z
+MD: dev/jess/baseband/client/mixin/Mixin/MixinAbstractClientPlayer/getPlayerInfo ()Lnet/minecraft/client/network/NetworkPlayerInfo; dev/jess/baseband/client/mixin/Mixin/MixinAbstractClientPlayer/b ()Lbsc;

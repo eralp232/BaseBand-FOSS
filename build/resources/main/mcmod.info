@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "baseband",
+    "name": "BaseBand",
+    "description": "1.12.2 Utility Mod",
+    "version": "A1238",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Jess","TudbuT","rd_131648"],
+    "credits": "TudbuT ← Polyfire Packet Grabbing & Api Implementation",
+    "logoFile": "baseband.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

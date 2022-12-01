@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.baseband.json
+Mixin-Refmap: mixins.baseband.refmap.json
+Mixin-Config: mixins.baseband.json
+FMLCorePluginContainsFMLMod: true
+LaunchClass: com.baseband.launch.LoaderEntryPoint
+FMLAT: baseband_at.cfg
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: dev.jess.baseband.client.mixin.Core.CoreMod
+

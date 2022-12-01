@@ -47,7 +47,7 @@ def getCheckedOutGitCommitHash() {
 
 
 version "DR"
-group project.modGroup
+group "sad"
 archivesBaseName = "BaseBand-pre"
 
 sourceCompatibility = targetCompatibility = '1.8'
