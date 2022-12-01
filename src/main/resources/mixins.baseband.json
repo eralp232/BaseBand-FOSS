@@ -1,0 +1,25 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "dev.jess.baseband.client.mixin.Mixin",
+  "refmap": "mixins.baseband.refmap.json",
+  "mixins": [
+    "ISPacketPlayerPosLook",
+    "MixinAbstractClientPlayer",
+    "MixinGuiEditSign",
+    "MixinGuiMainMenu",
+    "MixinMainMenu",
+    "MixinMinecraft",
+    "MixinNetworkHandler",
+    "MixinRenderPlayer",
+    "MixinRender",
+    "MixinGuiNewChat",
+    "MixinEntityPlayerSP",
+    "MixinRenderEnderCrystal",
+    "MixinEntity",
+    "MixinGuiScreen",
+    "MixinEntityRender",
+    "ICPacketUpdateSign"
+  ],
+  "client": [],
+  "server": []
+}
